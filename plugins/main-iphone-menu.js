@@ -248,7 +248,7 @@ let str = `
 ┃❏*listban
 ┃❏*deleteplugin <name>
 ╰─────────────────➢
-┌─☛『 *_fun_* 』☚
+┌─☛『 *_اوامر المرح_* 』☚
 ┃❏*afk <reason>
 ┃❏*tomp3
 ┃❏*toav
@@ -339,7 +339,7 @@ let str = `
 ┃❏*prayertime
 ┃❏*convert
 ╰─────────────────➢
-┌─☛『 *_main_* 』☚
+┌─☛『 *_اوامر مالك البوت_* 』☚
 ┃❏*channel
 ┃❏*database
 ┃❏*user
